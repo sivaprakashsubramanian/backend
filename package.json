@@ -1,0 +1,28 @@
+{
+  "name": "siva",
+  "version": "1.2.1",
+  "description": "first node page",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "react crud"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "sivaprakash",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoos": "^0.0.1-security",
+    "mongoose": "^8.0.0",
+    "nodemon": "^3.0.1"
+  }
+}
